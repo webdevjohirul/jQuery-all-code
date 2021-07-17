@@ -1,0 +1,120 @@
+body {
+    margin-bottom: 200px;
+}
+
+.jQuery {
+    font-size: 35px;
+    color: dodgerblue;
+    background: #dbef8b;
+    padding: 5px;
+}
+
+.showBtn {
+    border: 1px solid #6e7171;
+    padding: 1px;
+    border-radius: 3px;
+    background: white;
+    cursor: pointer;
+}
+
+.hide {
+    display: none;
+}
+
+.fadeOverflow {
+    overflow: hidden;
+}
+
+.box1 {
+    padding: 50px;
+    background-color: teal;
+    margin: 20px;
+    float: left;
+}
+
+.box2 {
+    padding: 50px;
+    background-color: plum;
+    margin: 20px;
+    float: left;
+}
+
+.box3 {
+    padding: 50px;
+    background-color: cyan;
+    margin: 20px;
+    float: left;
+}
+
+.slidePara {
+    width: 410px;
+    text-align: justify;
+    background: black;
+    color: white;
+    padding: 5px;
+}
+
+.animateDiv {
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    position: relative;
+    margin-top: 10px;
+    font-size: 25px;
+    /* padding: 50px 50px; */
+    cursor: pointer;
+}
+
+.removeEmptyText {
+    background-color: blueviolet;
+    color: white;
+    padding: 20px;
+    width: 70%;
+}
+
+.classDiv {
+    width: 200px;
+    height: 200px;
+    border: 1px solid tomato;
+}
+
+.addClass {
+    background-color: teal;
+}
+
+.dimensionDiv {
+    width: 100px;
+    height: 100px;
+    border: 1px solid teal;
+    background-color: violet;
+}
+
+.ancestors * {
+    display: block;
+    border: 2px solid gray;
+    color: gray;
+    margin: 15px;
+    padding: 5px;
+}
+
+.descendants * {
+    display: block;
+    border: 2px solid gray;
+    color: gray;
+    margin: 15px;
+    padding: 5px;
+}
+
+.siblings * {
+    display: block;
+    border: 2px solid gray;
+    color: gray;
+    margin: 15px;
+    padding: 5px;
+}
+
+.filtering {
+    border: 2px solid teal;
+    margin: 10px 0;
+    padding: 10px;
+}
